@@ -11,6 +11,6 @@ app.get('/project3', (req, res) => {
     })
 })
 
-const PORT = 3002;
+const PORT = 5002;
 
 app.listen(PORT, ()=>console.log('jalan no goh'));
